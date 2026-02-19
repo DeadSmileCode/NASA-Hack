@@ -70,6 +70,7 @@ Contributions are welcome! Please fork the repository, create a new branch for y
 ## Authors
 
 - [@maksimkaprosuperhacker69](https://www.github.com/maksimkaprosuperhacker69)
+- [@DeadSmileCode](https://www.github.com/DeadSmileCode)
 
 
 ## Feedback
